@@ -6,6 +6,11 @@
       title="Salam les khoya"
       text="Product Designer (UI/UX) et ancien développeur web fullstack, mon main skill est d'élaborer des maquettes web et mobiles et de les intégrer tout en supervisant une équipe de développeurs grâce à mon expérience en développement web."
     />
+    <!--
+      projets
+      skills
+      footer
+    -->
   </div>
 </template>
 
